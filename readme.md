@@ -1,1 +1,3 @@
-[x]inicio
+# Paletas de Cores CHECK
+
+# Icons
