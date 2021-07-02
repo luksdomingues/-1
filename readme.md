@@ -1,6 +1,10 @@
 # Paletas de Cores CHECK
 
-* Escolhidas
+* #6F1D1B
+* BB9457
+* 432818
+* 99582A
+* FFE6A7
 
 # Icons
 
